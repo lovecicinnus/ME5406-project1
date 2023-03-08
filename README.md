@@ -3,7 +3,7 @@
 # Problem Statement
 Consider a frozen lake with (four) holes covered by patches of very thin ice. Suppose that a robot is to glide on the frozen surface from one location(i.e., the top left corner) to another (bottom right corner) in order to pick up a frisbee, as illustrated below.
 
-![Frozen Lake](render_images/frozen lake environment.png)
+![](render_images/frozen lake environment.png)
  
 # 3 Model Free RL Algorithms:
 1. Q learning
@@ -31,14 +31,10 @@ python main.py --algorithm "Q_learning" --map_size 4
 # Experiment Results (4 × 4 grid map)
 - Q learning
 
-
-
-
 ![](results/Q_learning/4×4 grid map/bar reaching and falling.png)
 ![](results/Q_learning/4×4 grid map/all evaluatioins.png)
 
 - SARSA
-
 
 ![](results/SARSA/4×4 grid map/bar reahcing and falling.png)
 ![](results/SARSA/4×4 grid map/all evaluations.png)
