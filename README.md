@@ -32,6 +32,8 @@ python main.py --algorithm "Q_learning" --map_size 4
 - Q learning
 
 
+
+
 ![](results/Q_learning/4×4 grid map/bar reaching and falling.png)
 ![](results/Q_learning/4×4 grid map/all evaluatioins.png)
 
