@@ -1,4 +1,4 @@
-# ME 5406 project1
+# ME 5406 Deep Learning for Robotics Project1
 
 # Problem Statement
 Consider a frozen lake with (four) holes covered by patches of very thin ice. Suppose that a robot is to glide on the frozen surface from one location(i.e., the top left corner) to another (bottom right corner) in order to pick up a frisbee, as illustrated below.
