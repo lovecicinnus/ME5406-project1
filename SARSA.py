@@ -173,13 +173,13 @@ def plot_results(record_goal, record_fail, record_route_length, reward_list, per
     f2.set_ylabel("Times of falling")
 
     # plot the route length
-    f3.plot(range(len(record_route_length)), record_route_length, color='black')
+    f3.plot(range(len(record_route_length)), record_route_length, color='b')
     f3.set_title("Reaching route length")
     f3.set_xlabel("Number of trained episodes")
     f3.set_ylabel("Route length")
 
     # plot the episode_reward
-    f4.plot(range(len(reward_list)), reward_list, color='navy')
+    f4.plot(range(len(reward_list)), reward_list, color='yellow')
     f4.set_title("Episode reward")
     f4.set_xlabel("Number of trained episodes")
     f4.set_ylabel("Episode reward")
