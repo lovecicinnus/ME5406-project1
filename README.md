@@ -31,18 +31,18 @@ python main.py --algorithm "Q_learning" --map_size 4
 # Experiment Results (4 × 4 grid map)
 - Q learning
 
-![](results/Q_learning/4×4 grid map/bar reaching and falling.png)
-![](results/Q_learning/4×4 grid map/all evaluatioins.png)
+![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/results/Q_learning/4%C3%974%20grid%20map/bar%20reaching%20and%20falling.png)
+![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/results/Q_learning/4%C3%974%20grid%20map/all%20evaluatioins.png)
 
 - SARSA
 
-![](results/SARSA/4×4 grid map/bar reahcing and falling.png)
-![](results/SARSA/4×4 grid map/all evaluations.png)
+![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/results/SARSA/4%C3%974%20grid%20map/bar%20reahcing%20and%20falling.png)
+![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/results/SARSA/4%C3%974%20grid%20map/all%20evaluations.png)
 
 - Monte Carlo First-visit
 
-![](results/Monte_carlo/4×4 grid map/bar reaching and falling.png)
-![](results/Monte_carlo/4×4 grid map/all evaluations.png)
+![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/results/Monte_carlo/4%C3%974%20grid%20map/bar%20reaching%20and%20falling.png)
+![all evaluations](results/Monte_carlo/4×4 grid map/all evaluations.png)
 
 
 - Final Optimal Policy
