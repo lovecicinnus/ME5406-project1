@@ -16,7 +16,7 @@ class Frozenlake(tk.Tk, object):
         # actions for the agent
         self.action = ['UP', 'DOWN', 'LEFT', 'RIGHT']
         self.n_actions = len(self.action)
-        self.n_states = self.map_size ** 2
+        self.n_states = int(self.map_size) * int(self.map_size)
 
         self.title('Frozen lake')
         self.geometry('{0}x{1}'.format(map_size * PIXELS, map_size * PIXELS))

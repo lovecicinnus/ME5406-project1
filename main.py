@@ -222,8 +222,8 @@ def plot_results(record_goal, record_fail, record_route_length, reward_list, per
 if __name__ == "__main__":
     # set the training arguments here
     parser = argparse.ArgumentParser(description="Set the arguments to specify the training")
-    parser.add_argument("--algorithm", default="Monte_carlo")  # training algorithm, can be set to "Q_learning", "SARSA" or "Monte_carlo"
-    parser.add_argument("--grid_size", default=10)  # grid_size of the map, can be set to 4 or 10
+    parser.add_argument("--algorithm", default="Q_learning")  # training algorithm, can be set to "Q_learning", "SARSA" or "Monte_carlo"
+    parser.add_argument("--grid_size", default=4)  # grid_size of the map, can be set to 4 or 10
     parser.add_argument("--learning_rate", default=0.01)  # learning_rate
     parser.add_argument("--gamma", default=0.9)  # gamma (reward decay)
     parser.add_argument("--epsilon", default=0.9)  # epsilon greedy
