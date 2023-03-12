@@ -32,26 +32,26 @@ python main.py --algorithm "Q_learning" --map_size 4
 # Experiment Results (4 × 4 grid map)
 - Q learning
 
-![](results/Q_learning/4×4 grid map/bar reaching and falling.png)
-![](results/Q_learning/4×4 grid map/all evaluatioins.png)
+![](results/Q_learning/4×4 grid map/bar%20reaching%20and%20falling.png)
+![](results/Q_learning/4×4 grid map/all%20evaluatioins.png)
 
 - SARSA
 
-![](results/SARSA/4×4 grid map/bar reahcing and falling.png)
-![](results/SARSA/4×4 grid map/all evaluations.png)
+![](results/SARSA/4×4 grid map/bar%20reahcing%20and%20falling.png)
+![](results/SARSA/4×4 grid map/all%20evaluations.png)
 
 - Monte Carlo First-visit
 
-![](results/Monte_carlo/4×4 grid map/bar reaching and falling.png)
-![](results/Monte_carlo/4×4 grid map/all evaluations.png)
+![](results/Monte_carlo/4×4 grid map/bar%20reaching%20and%20falling.png)
+![](results/Monte_carlo/4×4 grid map/all%20evaluations.png)
 
 
 - Final Optimal Policy
   * Q learning, SARSA and Monte Carlo, respectively
     
-    ![](results/Q_learning/4×4 grid map/final route.png)
-    ![](results/SARSA/4×4 grid map/final route.png)
-    ![](results/Monte_carlo/4×4 grid map/final route.png)
+    ![](results/Q_learning/4×4 grid map/final%20route.png)
+    ![](results/SARSA/4×4 grid map/final%20route.png)
+    ![](results/Monte_carlo/4×4 grid map/final%20route.png)
 
 
 # Acknowledgement
