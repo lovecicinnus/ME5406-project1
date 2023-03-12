@@ -3,7 +3,7 @@
 # Problem Statement
 Consider a frozen lake with (four) holes covered by patches of very thin ice. Suppose that a robot is to glide on the frozen surface from one location(i.e., the top left corner) to another (bottom right corner) in order to pick up a frisbee, as illustrated below.
 
-![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/render_images/frozen%20lake%20environment.png)
+![](./render_images/frozen lake environment.png)
  
 # 3 Model Free RL Algorithms:
 1. Q learning
@@ -32,26 +32,26 @@ python main.py --algorithm "Q_learning" --map_size 4
 # Experiment Results (4 × 4 grid map)
 - Q learning
 
-![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/results/Q_learning/4%C3%974%20grid%20map/bar%20reaching%20and%20falling.png)
-![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/results/Q_learning/4%C3%974%20grid%20map/all%20evaluatioins.png)
+![](./results/Q_learning/4×4 grid map/bar reaching and falling.png)
+![](./results/Q_learning/4×4 grid map/all evaluatioins.png)
 
 - SARSA
 
-![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/results/SARSA/4%C3%974%20grid%20map/bar%20reahcing%20and%20falling.png)
-![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/results/SARSA/4%C3%974%20grid%20map/all%20evaluations.png)
+![](./results/SARSA/4×4 grid map/bar reahcing and falling.png)
+![](./results/SARSA/4×4 grid map/all evaluations.png)
 
 - Monte Carlo First-visit
 
-![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/results/Monte_carlo/4%C3%974%20grid%20map/bar%20reaching%20and%20falling.png)
-![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/results/Monte_carlo/4%C3%974%20grid%20map/all%20evaluations.png)
+![](./results/Monte_carlo/4×4 grid map/bar reaching and falling.png)
+![](./results/Monte_carlo/4×4 grid map/all evaluations.png)
 
 
 - Final Optimal Policy
   * Q learning, SARSA and Monte Carlo, respectively
     
-    ![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/results/Q_learning/4%C3%974%20grid%20map/final%20route.png)
-    ![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/results/SARSA/4%C3%974%20grid%20map/final%20route.png)
-    ![](https://github.com/lovecicinnus/ME-5406-project1/blob/main/results/Monte_carlo/4%C3%974%20grid%20map/final%20route.png)
+    ![](./results/Q_learning/4×4 grid map/final route.png)
+    ![](./results/SARSA/4×4 grid map/final route.png)
+    ![](./results/Monte_carlo/4×4 grid map/final route.png)
 
 
 # Acknowledgement
