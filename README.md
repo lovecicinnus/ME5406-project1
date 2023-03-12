@@ -43,7 +43,7 @@ python main.py --algorithm "Q_learning" --map_size 4
 - Monte Carlo First-visit
 
 ![](results/Monte_carlo/4×4%20grid%20map/bar%20reaching%20and%20falling.png)
-![](results/Monte_carlo/4×4%20grid%20map/bar%20reaching%20and%20falling.png)
+![](results/Monte_carlo/4×4%20grid%20map/all%20evaluations.png)
 
 
 - Final Optimal Policy
