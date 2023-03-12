@@ -3,7 +3,7 @@
 # Problem Statement
 Consider a frozen lake with (four) holes covered by patches of very thin ice. Suppose that a robot is to glide on the frozen surface from one location(i.e., the top left corner) to another (bottom right corner) in order to pick up a frisbee, as illustrated below.
 
-![](render_images/frozen lake environment.png)
+![](render_images/frozen%20lake%20environment.png)
  
 # 3 Model Free RL Algorithms:
 1. Q learning
