@@ -37,21 +37,21 @@ python main.py --algorithm "Q_learning" --map_size 4
 
 - SARSA
 
-![](results/SARSA/4×4 grid map/bar%20reahcing%20and%20falling.png)
-![](results/SARSA/4×4 grid map/all%20evaluations.png)
+![](results/SARSA/4×4%20grid%20map/bar%20reahcing%20and%20falling.png)
+![](results/SARSA/4×4%20grid%20map/all%20evaluations.png)
 
 - Monte Carlo First-visit
 
-![](results/Monte_carlo/4×4 grid map/bar%20reaching%20and%20falling.png)
-![](results/Monte_carlo/4×4 grid map/all%20evaluations.png)
+![](results/Monte_carlo/4×4%20grid%20map/bar%20reaching%20and%20falling.png)
+![](results/Monte_carlo/4×4%20grid%20map/bar%20reaching%20and%20falling.png)
 
 
 - Final Optimal Policy
   * Q learning, SARSA and Monte Carlo, respectively
     
-    ![](results/Q_learning/4×4 grid map/final%20route.png)
-    ![](results/SARSA/4×4 grid map/final%20route.png)
-    ![](results/Monte_carlo/4×4 grid map/final%20route.png)
+    ![](results/Q_learning/4×4%20grid%20map/final%20route.png)
+    ![](results/SARSA/4×4%20grid%20map/final%20route.png)
+    ![](results/Monte_carlo/4×4%20grid%20map/final%20route.png)
 
 
 # Acknowledgement
