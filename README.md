@@ -32,8 +32,8 @@ python main.py --algorithm "Q_learning" --map_size 4
 # Experiment Results (4 × 4 grid map)
 - Q learning
 
-![](results/Q_learning/4×4 grid map/bar%20reaching%20and%20falling.png)
-![](results/Q_learning/4×4 grid map/all%20evaluatioins.png)
+![](results/Q_learning/4×4%20grid%20map/bar%20reaching%20and%20falling.png)
+![](results/Q_learning/4×4%20grid%20map/all%20evaluatioins.png)
 
 - SARSA
 
